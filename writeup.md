@@ -200,6 +200,7 @@ For the first image, the model is relatively sure that this is a 50 km/h (probab
 
 
 For the second image, the model is relatively sure that this is a right-of-way (probability of 1), and the image does contain a right-of-way sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 |1.000000000000000000000000000000  | right-of-way |
@@ -210,6 +211,7 @@ For the second image, the model is relatively sure that this is a right-of-way (
 
 
 For the third image, the model is relatively sure that this is a priority road (probability of 0.9999), and the image does contain a priority road sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 |0.999989867210388183593750000000 | priority road |
@@ -219,6 +221,7 @@ For the third image, the model is relatively sure that this is a priority road (
 |0.000000000504013886182264059244 | Yield |
 
 For the fourth image, the model is relatively sure that this is a road work (probability of 0.9999), and the image does contain a road work sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 |0.999984979629516601562500000000 | road work |
@@ -228,6 +231,7 @@ For the fourth image, the model is relatively sure that this is a road work (pro
 |0.000000125420854146796045824885 | Dangerous curve to the right |
 
 For the fifth image, the model is relatively sure that this is a children crossing (probability of 0.9829), and the image does contain a children crossing sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 |0.982923328876495361328125000000 | children crossing |
